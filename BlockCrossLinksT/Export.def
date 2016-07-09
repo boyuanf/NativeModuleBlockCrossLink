@@ -1,0 +1,3 @@
+LIBRARY "BlockCrossLinksT"
+EXPORTS
+    RegisterModule
